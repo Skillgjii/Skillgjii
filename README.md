@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Skillgjii
+- 👀 I’m interested in fivem
+- 🌱 I’m currently learning Lua, css and html
+- 💞️ I’m looking to collaborate on fivem related programing
+- 📫 How to reach me Skillgjii#5250
